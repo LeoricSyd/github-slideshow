@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our awesome slide!"
 ---
-Something else
+Updated via Github Desktop
 Use the left arrow to go back!
